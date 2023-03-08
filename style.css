@@ -1,0 +1,97 @@
+
+  
+    nav ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 10px;
+    text-decoration: blue;
+    align-items: center;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    padding: 40px 40px;
+    width: 90%;
+}
+.h1{
+    color: blue;
+    margin-left: 50%;
+
+}
+
+
+.h2{
+    font-size: 50px;
+    margin-left: 600px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    padding: 19px;
+    align-items: center;
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    align-items: center;
+    justify-content: space-between;
+    padding: 70px;
+}
+.t{
+    margin-bottom: 70%
+}
+    
+    
+    #part1{
+        border-radius: 40%;
+        font-size: 30px;
+        padding: 60px ;
+    }
+
+#t{
+    margin-left: 50%;
+
+}
+.p1{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 75px;
+    margin-top: 45px;
+    align-items: center;
+    background-color: blue;
+    display: inline-block;
+    
+
+}
+.company{
+    margin-left: 40%;
+    margin-top: 40%;
+    color: blue;
+}
+.help{
+    margin-left: 35%;
+    margin-top: -17%;
+    color: blue;
+}
+.contacts{
+    margin-left: 60%;
+    margin-top: -15%; 
+    color: blue;
+}
+.social{
+    margin-left: 85%;
+    margin-top:  -23%;
+    color: blue;
+}
+   
+
+#{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 90%;
+}
+
